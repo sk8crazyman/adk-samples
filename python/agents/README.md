@@ -47,6 +47,7 @@ Check out the agent samples below, organized by category:
 | [Travel Concierge](travel-concierge) | Travel Concierge, Digital Tasks Assistant                                                                                               |   Function tool (Python), Custom tool, Agent tool, Input and output schema, Updatable context, Dynamic instructions  | Conversational | Advanced | Multi Agent | Travel                        |
 | [Auto Insurance Agent](auto-insurance-agent) | Auto Insurance Agent to manage members, claims, rewards and roadside assistance.                                                                                              |   [Apigee](https://cloud.google.com/apigee/docs/api-platform/get-started/what-apigee), [Apigee API hub](https://cloud.google.com/apigee/docs/apihub/what-is-api-hub), Agent Tool  | Conversational | Easy | Multi Agent | Financial Services                        |
 
+| [Business Product Planner](business-product) | Gather requirements with a business analyst and escalate to a product manager for a PRD and tech stack. | Sub-agent workflow | Workflow | Easy | Multi Agent | Product Planning |
 
 ## Using the Agents in this Repository
 
